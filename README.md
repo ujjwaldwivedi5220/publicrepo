@@ -2,9 +2,8 @@
 ## Topic:
 ### Web Devolopments
 
-alert('WEb Devlopments Introduction:')
+alert('WEb Devlopments Introduction:');
 ```
-![javascript-alert-box](https://user-images.githubusercontent.com/95132258/143923802-7129e8cf-d7de-48a7-ab3f-2cc74bb7ffa9.jpg)
-
 
 ```
+![javascript-alert-box](https://user-images.githubusercontent.com/95132258/143923980-356dc77e-24cc-4fc8-bd0f-25d34ba01a26.jpg)
